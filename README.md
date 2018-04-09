@@ -1,6 +1,6 @@
 Demo de la Web
 ================
-Web Turimos: [https://turismo-1fa19.firebaseapp.com/](https://turismo-1fa19.firebaseapp.com/)
+Web Turismo: [https://turismo-1fa19.firebaseapp.com/](https://turismo-1fa19.firebaseapp.com/)
 
 Tecnologias usadas
 ===================
